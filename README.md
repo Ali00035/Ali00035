@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+A Minecraft/CSGO/TF2 Player, no plans right now
 <!--
 **Ali00035/Ali00035** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
